@@ -1,3 +1,3 @@
 setTimeout(()=>{
 console.log('SetTimeout');
-},100)
+},200)
